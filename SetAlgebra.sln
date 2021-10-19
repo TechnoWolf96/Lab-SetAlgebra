@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetAlgebra", "SetAlgebra\SetAlgebra.vcxproj", "{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetAlgebraTest", "SetAlgebraTest\SetAlgebraTest.vcxproj", "{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Debug|x64.ActiveCfg = Debug|x64
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Debug|x64.Build.0 = Debug|x64
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Debug|x86.ActiveCfg = Debug|Win32
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Debug|x86.Build.0 = Debug|Win32
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Release|Any CPU.ActiveCfg = Release|Win32
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Release|x64.ActiveCfg = Release|x64
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Release|x64.Build.0 = Release|x64
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Release|x86.ActiveCfg = Release|Win32
+		{0ED9CD2C-2989-4F8F-BE6F-61626C5B5C48}.Release|x86.Build.0 = Release|Win32
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Debug|x64.ActiveCfg = Debug|x64
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Debug|x64.Build.0 = Debug|x64
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Debug|x86.ActiveCfg = Debug|Win32
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Debug|x86.Build.0 = Debug|Win32
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Release|x64.ActiveCfg = Release|x64
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Release|x64.Build.0 = Release|x64
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Release|x86.ActiveCfg = Release|Win32
+		{F81A8FE9-72D8-4768-89DE-C3DC67DE7C37}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B420DEA-5781-4A2B-8888-40726E88D3E2}
+	EndGlobalSection
+EndGlobal

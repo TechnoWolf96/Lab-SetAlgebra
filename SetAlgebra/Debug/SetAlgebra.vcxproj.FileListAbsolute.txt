@@ -1,0 +1,12 @@
+C:\Users\WellRock\source\repos\SetAlgebra\SetAlgebra\Debug\SetAlgebra.UI.resources
+C:\Users\WellRock\source\repos\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxproj.GenerateResource.cache
+D:\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxprojAssemblyReference.cache
+D:\SetAlgebra\SetAlgebra\Debug\SetAlgebra.UI.resources
+D:\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxproj.GenerateResource.cache
+D:\валя\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxprojAssemblyReference.cache
+D:\валя\SetAlgebra\SetAlgebra\Debug\SetAlgebra.UI.resources
+D:\валя\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxproj.GenerateResource.cache
+C:\Users\WellRock\source\repos\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxproj.AssemblyReference.cache
+C:\Users\valya\OneDrive\Desktop\Материалы по универу\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxproj.AssemblyReference.cache
+C:\Users\valya\OneDrive\Desktop\Материалы по универу\SetAlgebra\SetAlgebra\Debug\SetAlgebra.UI.resources
+C:\Users\valya\OneDrive\Desktop\Материалы по универу\SetAlgebra\SetAlgebra\Debug\SetAlgebra.vcxproj.GenerateResource.cache
